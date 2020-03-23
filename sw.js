@@ -135,7 +135,7 @@ define("./sw.js",['./workbox-34f51d66'], function (workbox) { 'use strict';
     "revision": "ad7a0ee2bbeb3ea5e431dfa3245e70c9"
   }, {
     "url": "manifest.json",
-    "revision": "7fd92405ed5099bc126a520ce8270ae5"
+    "revision": "82f5348f7081b344d4b157fa4a34a10b"
   }], {});
 
 });

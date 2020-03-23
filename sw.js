@@ -132,10 +132,10 @@ define("./sw.js",['./workbox-34f51d66'], function (workbox) { 'use strict';
     "revision": "f762d7138dc0a5b2a07399d2a9690697"
   }, {
     "url": "index.html",
-    "revision": "ad7a0ee2bbeb3ea5e431dfa3245e70c9"
+    "revision": "17e0be979da5f49f05e5ab59055bc391"
   }, {
     "url": "manifest.json",
-    "revision": "82f5348f7081b344d4b157fa4a34a10b"
+    "revision": "6e470f965d1eb93f39fd63ca525f1509"
   }], {});
 
 });

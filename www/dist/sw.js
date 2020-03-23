@@ -110,17 +110,32 @@ define("./sw.js",['./workbox-34f51d66'], function (workbox) { 'use strict';
     "url": "6c3973663b1ed0a61f54.module.wasm",
     "revision": "37694238764af49182fe0e69af13ab40"
   }, {
+    "url": "android-chrome-192x192.png",
+    "revision": "bc7a9d99c2eb47ead897dc5813befcfa"
+  }, {
+    "url": "android-chrome-512x512.png",
+    "revision": "6155791cdc718b226adaa0cfc1a38294"
+  }, {
+    "url": "apple-touch-icon.png",
+    "revision": "f9ba9b3b1bdc696c399e6f549fbe12b3"
+  }, {
     "url": "bootstrap.js",
     "revision": "a20a8a7efa6129c949c6166b87bef637"
   }, {
+    "url": "favicon-16x16.png",
+    "revision": "81da15b5f8e44080762b169309d0e9d9"
+  }, {
+    "url": "favicon-32x32.png",
+    "revision": "22e9f4bddac104a278c464e26699a33f"
+  }, {
     "url": "favicon.ico",
-    "revision": "987da976a8b2a4169346a497ba84749d"
+    "revision": "f762d7138dc0a5b2a07399d2a9690697"
   }, {
     "url": "index.html",
-    "revision": "5f6cab42846bc40ea6b9538abeb7e5a7"
+    "revision": "ad7a0ee2bbeb3ea5e431dfa3245e70c9"
   }, {
     "url": "manifest.json",
-    "revision": "155c2c941436ad25455dc372d93fe702"
+    "revision": "7fd92405ed5099bc126a520ce8270ae5"
   }], {});
 
 });

@@ -12,7 +12,7 @@ module.exports = {
   mode: "development",
   plugins: [
     new CleanWebpackPlugin(),
-    new CopyWebpackPlugin(['index.html', 'favicon.ico', 'manifest.json']),
+    new CopyWebpackPlugin(['index.html', '*.ico', '*.png', 'manifest.json']),
     new workboxPlugin.GenerateSW({
       swDest: 'sw.js',
       clientsClaim: true,

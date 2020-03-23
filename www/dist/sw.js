@@ -113,8 +113,14 @@ define("./sw.js",['./workbox-34f51d66'], function (workbox) { 'use strict';
     "url": "bootstrap.js",
     "revision": "a20a8a7efa6129c949c6166b87bef637"
   }, {
+    "url": "favicon.ico",
+    "revision": "987da976a8b2a4169346a497ba84749d"
+  }, {
     "url": "index.html",
     "revision": "5f6cab42846bc40ea6b9538abeb7e5a7"
+  }, {
+    "url": "manifest.json",
+    "revision": "155c2c941436ad25455dc372d93fe702"
   }], {});
 
 });
